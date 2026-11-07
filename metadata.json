@@ -1,0 +1,8 @@
+{
+  "name": "Remix ESPORTEC Eco-Industriel - Revêtements de Sols Stabilisés Écologiques",
+  "description": "Fabricant français depuis 1997 de liants en verre recyclé pour la fabrication de sols extérieurs stabilisés écologiques, perméables et durables pour collectivités, aménagements urbains et terrains de sport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
